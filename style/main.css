@@ -9240,8 +9240,9 @@ footer p {
   color: #fefefe;
   margin-left: -10px;
 }
-.navbar-store .navbar-fixed-top.scrolled {
-  background-color: #fff !important;
+
+.navbar-fixed-top.scrolled {
+  background-color: #fff;
   transition: background-color 200ms linear;
 }
 
